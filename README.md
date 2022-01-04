@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @htinaunglu
 - 👀 I’m interested in **Machine Learning Engineering** and **Cyber Security Engineering**.
-- 🌱 ~~I’m currently learning Machine Learning Engineering with AWS course by Udacity as a scholar.
-- 🌲 I have got AWS Machine Learning Engineer Nanodegree from @Udacity . [x]
+- 🌱 I’ve learnt Machine Learning Engineering with AWS course by Udacity as a scholar.
+- 🌲 I have got AWS Machine Learning Engineer Nanodegree from @Udacity. 
 - 💞️ I’m looking to collaborate on some Machine Learning Projects.
 - 📫 How to reach me : You can reach me via LinkedIn: https://www.linkedin.com/in/htinaunglu/
 

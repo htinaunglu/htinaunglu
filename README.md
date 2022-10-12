@@ -6,7 +6,7 @@
 - 📫 How to reach me : You can reach me via LinkedIn: https://www.linkedin.com/in/htinaunglu/
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=htinaunglu&include_all_commits=true&count_private=true&theme=jolly&show_icons=true&border_radius=30&hide=contribs&title_color=ed792a&icon_color=ed792a&border_color=000000&line_height=32)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htinaunglu&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htinaunglu&layout=compact)
 
 <!---
 htinaunglu/htinaunglu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

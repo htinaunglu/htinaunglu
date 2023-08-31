@@ -8,5 +8,5 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=htinaunglu&include_all_commits=true&count_private=true&theme=jolly&show_icons=true&border_radius=30)](https://github.com/htinaunglu)
 ***
-[![trophy](https://github-profile-trophy.vercel.app/?username=htinaunglu&theme=onedark)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=htinaunglu&theme=onedark)](https://github.com/htinaunglu)
 

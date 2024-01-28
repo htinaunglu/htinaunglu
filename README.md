@@ -13,9 +13,11 @@ Intro
 
 Certification Section
   ---
+<p align="center">
 |eCPPT|API pentest|
 |------------------------|------------------------|
 | ![badge-ecppt](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/87165975) | ![badge-api](./.assets/api-penetration-testing.png) |
+</p>
 
 Stats
 ---

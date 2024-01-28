@@ -4,10 +4,9 @@ Intro
 - **Machine Learning Engineer** | **Cyber Security Engineer**
 - **System Administrator**      | **SOC Administrator**
 - **[Hack The Box](https://app.hackthebox.com)::Local Top 1** | **Red Team**
-  |![HTB PROFILE](https://www.hackthebox.com/badge/image/1543665)|
-  |--------------------------------------------------------------|
 <p align="center">
-  ![HTB PROFILE](https://www.hackthebox.com/badge/image/1543665)
+    |![HTB PROFILE](https://www.hackthebox.com/badge/image/1543665)|
+    |:--------------------------------------------------------------:| 
 </p>
 - Co Founder @ Mdy_L33ts([LeetDev](https://leetdev.net))
 - Reach me? On My bio!

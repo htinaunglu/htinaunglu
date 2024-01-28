@@ -5,7 +5,7 @@
   ![HTB PROFILE](https://www.hackthebox.com/badge/image/1543665)
 - Co Founder @ Mdy_L33ts([LeetDev](https://leetdev.net))
 - Reach me? On My bio!
-
+[![badge-ecppt](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/87165975)]
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=htinaunglu&include_all_commits=true&count_private=true&theme=jolly&show_icons=true&border_radius=30)](https://github.com/htinaunglu)  
 

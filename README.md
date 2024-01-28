@@ -1,6 +1,9 @@
 Intro
 ---
 You would know me sooner or later!  
+  
+[![MLC](https://img.shields.io/badge/co--founder-mdy--l33ts-magenta)](https://leetdev.net)  
+  
 |![HTB PROFILE](https://www.hackthebox.com/badge/image/1543665)|
 |:--------------------------------------------------------------:|  
 
@@ -8,10 +11,10 @@ You would know me sooner or later!
 
 ![MLE](https://img.shields.io/badge/machine%20learning%20engineer-8F6BE2) ![SYSA](https://img.shields.io/badge/system%20administrator-408B22) ![SOCA](https://img.shields.io/badge/soc%20administrator-22B804)  
 
-
-P.S I work on ![DBE](https://img.shields.io/badge/backend-django-teal) and build on ☁️ too xD  
-[![MLC](https://img.shields.io/badge/co--founder-mdy--l33ts-orange)](https://leetdev.net)  
-Reach me? On My bio!
+*EXTRA*  
+![DBE](https://img.shields.io/badge/backend-django-teal) ☁️    
+  
+***Reach me? On My bio!***
 
 Certification Section
   ---

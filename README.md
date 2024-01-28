@@ -8,8 +8,9 @@
 
 Certification Section
   ---
-![badge-ecppt](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/87165975)
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2e3f69e2-ffc7-48dd-bf2b-6b9973239fef" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+![badge-ecppt](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/87165975){: style="float: left; margin-right: 10px;"}
+![badge-api](https://images.credly.com/images/44a5fe44-52e6-45c2-ae9a-41fd9183c81d/image.png){: style="float: left; margin-right: 10px;"}
+
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=htinaunglu&include_all_commits=true&count_private=true&theme=jolly&show_icons=true&border_radius=30)](https://github.com/htinaunglu)  
 

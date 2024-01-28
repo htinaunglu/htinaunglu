@@ -1,15 +1,17 @@
 Intro
 ---
-- You would know me sooner or later!
-- **Machine Learning Engineer** | **Cyber Security Engineer**
-- **System Administrator**      | **SOC Administrator**
-- **[Hack The Box](https://app.hackthebox.com)::Local Top 1** | **Red Team**
+You would know me sooner or later!  
+|![HTB PROFILE](https://www.hackthebox.com/badge/image/1543665)|
+|:--------------------------------------------------------------:|  
 
-    |![HTB PROFILE](https://www.hackthebox.com/badge/image/1543665)|
-    |:--------------------------------------------------------------:| 
+[![HTB](https://img.shields.io/badge/hack%20the%20box-local%20top%20one-yellow)](https://labs.hackthebox.com) ![RT](https://img.shields.io/badge/red%20teamer-FF1000) ![CSE](https://img.shields.io/badge/cyber%20security%20engineer-FF035F)  
 
-- Co Founder @ Mdy_L33ts([LeetDev](https://leetdev.net))
-- Reach me? On My bio!
+![MLE](https://img.shields.io/badge/machine%20learning%20engineer-8F6BE2) ![SYSA](https://img.shields.io/badge/system%20administrator-408B22) ![SOCA](https://img.shields.io/badge/soc%20administrator-22B804)  
+
+
+P.S I work on ![DBE](https://img.shields.io/badge/backend-django-teal) and build on ☁️ too xD  
+[![MLC](https://img.shields.io/badge/co--founder-mdy--l33ts-orange)](https://leetdev.net)  
+Reach me? On My bio!
 
 Certification Section
   ---

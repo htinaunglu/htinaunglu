@@ -8,9 +8,10 @@
 
 Certification Section
   ---
-
-| ![badge-ecppt](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/87165975) | ![badge-api](./.assets/api-penetration-testing.png) |
+|eCPPT|API pentest|
 |------------------------|------------------------|
+| ![badge-ecppt](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/87165975) | ![badge-api](./.assets/api-penetration-testing.png) |
+
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=htinaunglu&include_all_commits=true&count_private=true&theme=jolly&show_icons=true&border_radius=30)](https://github.com/htinaunglu)  
 

@@ -4,20 +4,19 @@ Intro
 - **Machine Learning Engineer** | **Cyber Security Engineer**
 - **System Administrator**      | **SOC Administrator**
 - **[Hack The Box](https://app.hackthebox.com)::Local Top 1** | **Red Team**
-<p align="center">
+
     |![HTB PROFILE](https://www.hackthebox.com/badge/image/1543665)|
     |:--------------------------------------------------------------:| 
-</p>
+
 - Co Founder @ Mdy_L33ts([LeetDev](https://leetdev.net))
 - Reach me? On My bio!
 
 Certification Section
   ---
-<p align="center">
+
 |eCPPT|API pentest|
-|------------------------|------------------------|
+|:------------------------:|:------------------------:|
 | ![badge-ecppt](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/87165975) | ![badge-api](./.assets/api-penetration-testing.png) |
-</p>
 
 Stats
 ---

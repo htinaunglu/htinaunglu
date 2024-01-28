@@ -7,7 +7,7 @@ Intro
   |![HTB PROFILE](https://www.hackthebox.com/badge/image/1543665)|
   |--------------------------------------------------------------|
 <p align="center">
-  <img src="[HTB-profile.png](https://www.hackthebox.com/badge/image/1543665)" alt="HTB-Profile" width="300"/>
+  <src="https://www.hackthebox.com/badge/image/1543665" alt="HTB-Profile" width="300"/>
 </p>
 - Co Founder @ Mdy_L33ts([LeetDev](https://leetdev.net))
 - Reach me? On My bio!

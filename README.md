@@ -11,8 +11,6 @@ You would know me sooner or later!
 
 ![MLE](https://img.shields.io/badge/machine%20learning%20engineer-8F6BE2)  ![SYSA](https://img.shields.io/badge/system%20administrator-408B22)  ![SOCA](https://img.shields.io/badge/soc%20administrator-22B804)  
 
-*EXTRA*
-![DBE](https://img.shields.io/badge/backend-django-green?style=flat&logo=django)☁️    
 
 ***Reach me? On My bio!***  
 

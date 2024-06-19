@@ -19,7 +19,7 @@ Certification Section
 
 |OSCP|eCPPT|API pentest|More Certs|
 |:---:|:---:|:---------:|:--------:|
-| ![badge-oscp](https://templates.images.credential.net/1677682410975725023965573912354.png) | [![badge-ecppt](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/87165975)](https://ine.com/learning/certifications/external/elearnsecurity-certified-professional-penetration-tester) | ![badge-api](./.assets/api-penetration-testing.png) | ![coming-soon](./.assets/coming-soon.png) |
+| ![badge-oscp](./.assets/oscp-badge.png) | [![badge-ecppt](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/87165975)](https://ine.com/learning/certifications/external/elearnsecurity-certified-professional-penetration-tester) | ![badge-api](./.assets/api-penetration-testing.png) | ![coming-soon](./.assets/coming-soon.png) |
 
 Stats
 ---

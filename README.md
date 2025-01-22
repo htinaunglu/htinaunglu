@@ -9,7 +9,7 @@ You would know me sooner or later!
 
 |![HTB PROFILE](https://www.hackthebox.com/badge/image/1543665)|
 |:--------------------------------------------------------------:|  
-|![THM](https://tryhackme-badges.s3.amazonaws.com/HtinAungLu.png)|
+|![THM](https://tryhackme-badges.s3.amazonaws.com/Mui0.png)|
 [![HTB](https://img.shields.io/badge/local%20top%20one-green?logo=hackthebox)](https://app.hackthebox.com)  ![RT](https://img.shields.io/badge/red%20teamer-FF1000)  ![CSC](https://img.shields.io/badge/cyber%20security%20consultant-FF035F)  
 ![MLE](https://img.shields.io/badge/machine%20learning%20engineer-8F6BE2)  ![SYSA](https://img.shields.io/badge/system%20administrator-408B22)  ![SOCA](https://img.shields.io/badge/soc%20administrator-22B804)  
 
